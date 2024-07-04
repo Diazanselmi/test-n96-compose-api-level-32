@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#002B49</color>
+    <color name="colorPrimaryDark">#002B49</color>
+    <color name="colorAccent">#26CD7B</color>
+    <color name="colorAccentBorder">#26D07C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#333333</color>
+    <color name="lightGrey">#F8F8F8</color>
+    <color name="stepGrey">#E1E1E1</color>
+    <color name="baseGrey">#FAFAFA</color>
+    <color name="grey">#A6A4A4</color>
+    <color name="vender_keyboard_dividers">#7E7E7E</color>
+    <color name="silver">#EDEDED</color>
+    <color name="red">#C51917</color>
+    <color name="lightBlack">#262626</color>
+    <color name="darkBlack">#313335</color>
+    <color name="stepBackground">#EFFFF4</color>
+    <color name="stepColor">#26D07C</color>
+    <color name="sign_up_disable_field">#B7B7B7</color>
+    <color name="sign_up_error_text">#D4000A</color>
+    <color name="sign_up_enable_field">#495057</color>
+    <color name="sign_up_snack_bar">#C51917</color>
+    <color name="sign_up_uaf_stroke">#AFAFAF</color>
+    <color name="sign_up_uaf_title">#2E2E2E</color>
+    <color name="sign_up_uaf_add_background_button">#0D2C4B</color>
+    <color name="sign_up_uaf_delete_content_button">#747474</color>
+    <color name="sign_up_uaf_partner_background">#F4F4F4</color>
+    <color name="sign_up_uaf_partner_title_background">#EEEEEE</color>
+    <color name="sign_up_uaf_partner_stroke">#9A9A9A</color>
+    <color name="sign_up_uaf_partner_check_box_stroke">#CED4DA</color>
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+
+    <color name="greyLine">#DFDFDF</color>
+    <color name="grayStroke">#A6A6A6</color>
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="transparent">#00000000</color>
+    <color name="dim_grey_darker">#80182329</color>
+    <color name="dialog_transparent_background_color">@color/dim_grey_darker</color>
+    <color name="dialog_message">#313335</color>
+
+    <color name="gray_disable">#B3BCC9</color>
+    <color name="gray_disable2">#B7B7B7</color>
+    <color name="gray1">#FEFEFE</color>
+    <color name="gray2">#EEEEEE</color>
+    <color name="gray_label_indicator">#53575A</color>
+
+    <color name="textTootip">#495057</color>
+    <color name="red_alert">#D4000A</color>
+    <color name="purple_700">#D4000A</color>
+</resources>

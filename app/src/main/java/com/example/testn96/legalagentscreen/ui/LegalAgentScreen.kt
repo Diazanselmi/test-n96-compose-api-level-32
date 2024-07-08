@@ -96,7 +96,7 @@ fun LegalAgentScreen(
                     .fillMaxWidth(),
                 enable = true,
                 textSize = 16,
-                text = "Second Activity"
+                text = "Ir a compose 3"
             ) {
                 focusManager.clearFocus(force = true)
                 navigateNextStep()
@@ -151,7 +151,7 @@ fun LegalAgentScreen(
                         start.linkTo(parent.start)
                         end.linkTo(parent.end)
                     },
-                text = ""
+                text = "Compose 2"
             )
 
             StepProgressBar(

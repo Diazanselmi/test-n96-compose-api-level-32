@@ -74,7 +74,7 @@ fun JuridicalBankScreen(
                     modifier = Modifier
                         .padding(32.dp)
                         .fillMaxWidth(),
-                    text = "Ir a Main Activity",
+                    text = "Ir a compose 1",
                     enable = true
                 ) {
                     navigateNextStep()
@@ -121,7 +121,7 @@ fun JuridicalBankScreen(
                         start.linkTo(parent.start)
                         end.linkTo(parent.end)
                     },
-                text = ""
+                text = "Compose 3"
             )
             StepProgressBar(
                 modifier = Modifier

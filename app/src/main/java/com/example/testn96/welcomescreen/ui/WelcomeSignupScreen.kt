@@ -125,7 +125,7 @@ fun WelcomeSignupScreen(
                             start.linkTo(parent.start)
                             end.linkTo(parent.end)
                         },
-                    text = ""
+                    text = "Compose 1"
                 )
 
                 ScreenSubTitleSuccess(
@@ -172,7 +172,7 @@ fun WelcomeSignupScreen(
                         },
                     enable = true,
                     textSize = 16,
-                    text = "Ir a segundo compose"
+                    text = "Ir a compose 2"
                 ) {
                     focusManager.clearFocus()
                    navigateLegalAgentStep()
